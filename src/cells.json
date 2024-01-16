@@ -1,0 +1,58 @@
+[
+  {
+    "char": "2",
+    "color": "#c2e7da",
+    "size": "44",
+    "position": { "x": 0, "y": 0 }
+  },
+  { "char": 4, "color": "#bed7d9", "size": 44, "position": { "x": 0, "y": 0 } },
+  { "char": 8, "color": "#b9c7d7", "size": 44, "position": { "x": 0, "y": 0 } },
+  {
+    "char": 16,
+    "color": "#b5b8d6",
+    "size": 40,
+    "position": { "x": 0, "y": 0 }
+  },
+  {
+    "char": 32,
+    "color": "#b0a8d4",
+    "size": 38,
+    "position": { "x": 0, "y": 0 }
+  },
+  {
+    "char": 64,
+    "color": "#ac98d3",
+    "size": 38,
+    "position": { "x": 0, "y": 0 }
+  },
+  {
+    "char": 128,
+    "color": "#a888d1",
+    "size": 36,
+    "position": { "x": 0, "y": 0 }
+  },
+  {
+    "char": 256,
+    "color": "#a378d0",
+    "size": 32,
+    "position": { "x": 0, "y": 0 }
+  },
+  {
+    "char": 512,
+    "color": "#9f69ce",
+    "size": 32,
+    "position": { "x": 0, "y": 0 }
+  },
+  {
+    "char": 1024,
+    "color": "#9a59cd",
+    "size": 32,
+    "position": { "x": 0, "y": 0 }
+  },
+  {
+    "char": 2048,
+    "color": "#9649cb",
+    "size": 32,
+    "position": { "x": 0, "y": 0 }
+  }
+]

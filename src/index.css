@@ -6,11 +6,29 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  color: white;
+  background-color: var(--bg);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  --bg: #121112;
+  --db: #1a181a;
+  --cb: #191819;
+  --2: #c2e7da;
+  --4: #bed7d9;
+  --8: #b9c7d7;
+  --16: #b5b8d6;
+  --32: #b0a8d4;
+  --64: #ac98d3;
+  --128: #a888d1;
+  --256: #a378d0;
+  --512: #9f69ce;
+  --1024: #9a59cd;
+  --2048: #9649cb;
+  --br4: 4px;
+  --br11: 11px;
+  --db-bs: 0 0 19px 15px rgba(18, 17, 18, 0.8);
 }
